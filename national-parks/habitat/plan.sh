@@ -14,7 +14,7 @@ pkg_origin=wetescka
 
 # Required.
 # Sets the version of the package
-pkg_version="0.2.0"
+pkg_version="6.5.0"
 
 # Optional.
 # The name and email address of the package maintainer.
